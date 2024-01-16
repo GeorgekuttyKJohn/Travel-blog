@@ -1,0 +1,185 @@
+
+
+.sticky-navbar {
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+
+
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    color: white;
+
+}
+
+
+.container-fluid{
+    background-color: rgb(218, 217, 217);
+   
+}
+
+i{
+    
+        margin-right: 20px; 
+      }
+    
+
+/* .image-container {
+    position: relative;
+    width: 1000px;
+    height: 400px;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 2s ease-in-out;
+  }
+  
+  #image2 {
+    opacity: 0;
+  }
+  
+  .image-container:hover #image2 {
+    opacity: 1;
+  } */
+  
+
+.container{
+    max-width: 1500px;
+    margin: 0px auto;
+    padding: 20px;
+   
+}
+
+.image-text-container {
+    display: flex; 
+    align-items: center; 
+}
+
+.image-text-container img {
+    width: 1000px; 
+    height: auto; 
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    
+    
+}
+
+.color{
+    color: rgb(22, 21, 21);
+    border-color: white;
+    border-radius: 10%;
+}
+.container1{
+    max-width: 1500px;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    float: center;
+    /* transition: transform 0.5s ease;
+    transform: scale(1); */
+  }
+  
+  /* .container1:hover {
+    transform: scale(1.1);
+  } */
+
+.container2{
+    max-width: 300px;
+    max-height: 300px;
+    margin: 5% auto;
+    padding: 5%;
+    background-color: #f2f1f1;
+    border-radius: 15px;
+    float:center;
+    border: 5px solid;
+    border-color: #878383;
+    transition: transform 0.3s ease-in-out;
+    
+}
+.img2{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 200px;
+}
+
+.container2:hover{
+    transform: scale(0.9);
+
+}
+
+p{
+    text-align: center;
+}
+button{
+    align-items: center;
+}
+.container3{
+    max-width: 500px;
+    max-height: 300px;
+    margin: 5% auto;
+    padding: 5%;
+  
+    border-radius: 15px;
+    float:center;
+   
+    
+}
+
+.container3 p{
+    text-align: justify;
+}
+
+li{
+    color: blue;
+}
+
+
+footer {
+    background-color: #333; 
+    color: #fff; 
+    text-align: center; 
+    padding: 20px; 
+  }
+  
+ 
+  footer p {
+    margin: 0; 
+    font-size: 14px;
+  }
+
+  .container4{
+   
+    margin: 5% auto;
+    padding: 5%;
+  
+    border-radius: 15px;
+    float:center;}
+
+
+.footer h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: white; 
+    float: left; 
+}
+
+.footer-icons {
+    margin: 0; 
+    padding: 0;
+  }
+  
+ 
